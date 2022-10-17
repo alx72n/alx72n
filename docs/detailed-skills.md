@@ -1,0 +1,3 @@
+# Detailed skills
+
+## Python skills
