@@ -2,6 +2,10 @@
 
 ## Python skills
 
+### Tasks
+
+- Write shell script.
+
 ### Modules
 
 - black
