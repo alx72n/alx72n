@@ -8,6 +8,10 @@ Links:
 
 - [Ansible documentation](https://docs.ansible.com/ansible/latest/index.html)
 
+### Modules
+
+- [ansible.builtin.raw](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/raw_module.html)
+
 ## Python skills
 
 ### Tasks
