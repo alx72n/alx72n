@@ -17,6 +17,8 @@ Links:
 ### Tasks
 
 - Write shell script.
+- Write unit tests using `pytest`.
+- Write parametrized unit tests using `pytest`.
 
 ### Modules
 
