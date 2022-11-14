@@ -3,6 +3,7 @@
 ## Linux skills
 
 - at
+- cron
 
 ## Ansible skills
 
