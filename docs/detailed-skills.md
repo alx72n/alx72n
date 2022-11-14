@@ -42,3 +42,4 @@ Links:
 - requests
 - tinydb
 - poetry
+- [curlify](https://github.com/ofw/curlify)
