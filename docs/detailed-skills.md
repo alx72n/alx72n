@@ -36,3 +36,4 @@ Links:
 - python-dotenv
 - requests
 - tinydb
+- poetry
