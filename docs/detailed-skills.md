@@ -17,6 +17,10 @@ Links:
 
 - [ansible.builtin.raw](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/raw_module.html)
 
+### Apps
+
+- [ansible-lint](https://ansible-lint.readthedocs.io/)
+
 ## Python skills
 
 ### Tasks
